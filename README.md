@@ -10,7 +10,7 @@
 
 I am fairly forgetful about the cool stuff I have made over the years (and all the garbage nonsense too) so I'm going to try and maintain a list of it here.
 
-- [dome/](Half Geodesic Garden Dome)
-- [garden-table/](Garden table) 
+- [Half Geodesic Garden Dome](../dome/)
+- [Garden table](../garden-table/)
 
 
