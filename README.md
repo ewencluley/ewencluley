@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi There 👋
 
-<!--
-**ewencluley/ewencluley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Ewen Cluley (he/him)
+- I'm a Software Engineer [@Brandwatch](https://www.brandwatch.com) working to bring huge volumes of social and other media data to our platform.
+- I love making things.
+  - Sometimes that's software💻
+  - Sometimes it's various electronic things 🤖
+  - Sometimes it's beer 🍺
+  - Sometimes it's furniture 🪚
 
-Here are some ideas to get you started:
+I am fairly forgetful about the cool stuff I have made (and all the garbage nonsense too) so I'm going to try and maintain a list of it here.
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
