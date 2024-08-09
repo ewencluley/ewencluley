@@ -38,10 +38,13 @@ Not an exhaustive list, just the stuff I have photos for
   - Coffee table, TV dinner table and board games table all in one. I love this and use it loads. It needs a sand down and re-varnish
 - Murphy Beds [MK2](murphy-bed-mk2/) and [MK3](murphy-bed-mk3/)
   - I got a little obsessed with murphy beds over the span of quite a few years.
-  - Thankfully the evidence of the monstrosity that was MK1 had been lost to the mists of time. I think it was probably the first thing I ever built out of wood with just a jigsaw and electric screwdriver. Shudder
+  - Thankfully the evidence of the monstrosity that was MK1 had been lost to the mists of time. I think it was probably the first thing I ever built out of wood with just a jigsaw and electric screwdriver. Shudder.
 - [Campervan Bed](camp-bed/) for my 2010 reg [Citreon Berlingo](https://en.wikipedia.org/wiki/Citro%C3%ABn_Berlingo)
   - Folds out to create a good size sleeping platform. Made of plywood.
   - Beats sleeping in a tent.
+- [RadioPi](https://github.com/ewencluley/radiopi) - a radio alarm clock that plays a random internet radio station with the alarm
+  - I got bored of the same breakfast show every morning so built this to try and spice things up
+  - Unfortunately a lot of the urls I had coded in no longer work. 
 
 
 
