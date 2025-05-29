@@ -1,7 +1,7 @@
 # Hi There 👋
 
 - My name is Ewen Cluley (he/him)
-- I'm a Software Engineer [@Brandwatch](https://www.brandwatch.com) working to bring huge volumes of social and other media data to our platform.
+- I'm a Software Engineer [@StarlingBank](https://www.starlingbank.com/).
 - I love making things.
   - Sometimes that's software💻
   - Sometimes it's various electronic things 🤖
@@ -20,8 +20,6 @@ Not an exhaustive list, just the stuff I have photos for
   - Sadly this boat fell off the roofrack of my car onto the motorway at rushhour and did not survive the experience. Luckily the incident did not result in any injuries, except to my heart.
 - [Patio](patio/)
   - A good few weekends with a cement mixer and the help of some friends. I bought the beers after.
-- [Chute](chute/)
-  - A chute for getting building 3 tonnes of sand and 3 tonnes of hardcore through my house to the garden to make the patio. Saved a lot fo time and effort. One of my better ideas.
 - [Planter](planter/)
   - Because I couldn't be bothered taking the earth I had dug out to level the ground for the patio to the dump.
   - This actually turned out really nice and I love it.
